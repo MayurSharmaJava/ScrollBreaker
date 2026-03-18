@@ -3,7 +3,7 @@
   "styles": [
     {
       "id": "en_master",
-      "label": "English (Master)",
+      "label": "English (Default)",
       "example_quote": "Take a deep breath.\nThe infinite scroll won't bring you peace.",
       "quotes": [
         "Drop your shoulders.\nUnclench your jaw.\nTake a deep breath.",
