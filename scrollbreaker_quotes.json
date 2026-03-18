@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "styles": [
+    {
+      "id": "en_master",
+      "label": "English (Master)",
+      "example_quote": "Take a deep breath.\nThe infinite scroll won't bring you peace.",
+      "quotes": [
+        "Take a deep breath.\nThe infinite scroll won't bring you peace.",
+        "Your attention is your life.\nTake it back."
+      ]
+    },
+    {
+      "id": "hi_hinglish",
+      "label": "Hinglish (India)",
+      "example_quote": "Life is outside this screen.\nBahar niklo.",
+      "quotes": [
+        "Life is outside this screen.\nBahar niklo.",
+        "Phone rakh do.\nDuniya tumhara intezaar kar rahi hai."
+      ]
+    }
+  ]
+}
